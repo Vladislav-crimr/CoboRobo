@@ -47,4 +47,3 @@ def end():
 while mySelf:
     fride()
     end()
-
